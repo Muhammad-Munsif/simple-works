@@ -1,4 +1,3 @@
 document.getElementById("getStartedBtn").addEventListener("click", function () {
-    alert("Thank you for getting started!");
-  });
-  
+  alert("Thank you for getting started!");
+});
